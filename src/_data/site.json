@@ -1,8 +1,8 @@
 {
   "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
+  "title": "Tabletop Treasures",
+  "description": "A blog about board games, card games and all tabletop games",
   "url": "https://example.com",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Mihai-George Licu"
 }
